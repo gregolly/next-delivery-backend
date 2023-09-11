@@ -26,6 +26,12 @@
       ],
       "type": "media",
       "multiple": false
+    },
+    "dishes": {
+      "type": "relation",
+      "relation": "oneToMany",
+      "target": "api::dish.dish",
+      "mappedBy": "restaurant"
     }
   }
 }

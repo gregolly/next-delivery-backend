@@ -11,13 +11,13 @@
   },
   "dependencies": {
     "@strapi/plugin-graphql": "^4.14.0-alpha.0",
-    "@strapi/plugin-i18n": "4.9.0",
-    "@strapi/plugin-users-permissions": "4.9.0",
-    "@strapi/strapi": "4.9.0",
+    "@strapi/plugin-i18n": "4.13.3",
+    "@strapi/plugin-users-permissions": "4.13.3",
+    "@strapi/strapi": "4.13.3",
     "pg": "8.8.0"
   },
   "author": {
-    "name": "A Strapi developer"
+    "name": "gregolly franca"
   },
   "strapi": {
     "uuid": "f4d5fb01-6017-448c-a0a3-18495646e3b8"
